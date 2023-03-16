@@ -6,7 +6,8 @@
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
 ️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
-![2804794 (1)](https://user-images.githubusercontent.com/94946759/225538434-8d709de5-79ab-4112-a1a3-bd40ee6a6a22.png)
+![![banner1](https://user-images.githubusercontent.com/94946759/225539704-8cb846e8-d35f-4eff-9cb9-33c97c9a43fe.jpg)
+]
 
 
 Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
