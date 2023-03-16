@@ -1,7 +1,7 @@
-# [AMQ FUNDICION]
+# AMQ FUNDICION
 
 [![![banner1](https://user-images.githubusercontent.com/94946759/225539146-af62ca9e-8d68-4512-971d-208e08478764.jpg)
-](./preview.png)](https://wowchemy.com/hugo-themes/)
+](./preview.png)]
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
